@@ -1,7 +1,7 @@
 - Ilya, 27 y.o, PhD student
 - I'm new here! Areas of interest: Data Science & Classical ML
 - Looking for some internships/project collaboration/fruitful discussions on ML topic
-- Contacts: Telegram @ilyanov96
+- Contacts: @ilyanov96 (Telegram)
 - Moscow, Russia
 
 <!---
